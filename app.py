@@ -121,7 +121,7 @@ def main():
             "API" : api,
         }
 
-        page = st.sidebar.radio("Menu", tuple(pages.keys()), index=2)
+        page = st.sidebar.radio("Menu", tuple(pages.keys()), index=0)
 
         # clear state if user change page without complete a task
         if page != "Write":
