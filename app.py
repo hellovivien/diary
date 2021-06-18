@@ -3,8 +3,8 @@ from streamlit.hashing import _CodeHasher
 from streamlit.report_thread import get_report_ctx
 from streamlit.server.server import Server
 import pymongo
-import locale
-locale.setlocale(locale.LC_ALL, 'fr_FR.UTF-8')
+# import locale
+# locale.setlocale(locale.LC_ALL, 'fr_FR.UTF-8')
 from datetime import datetime
 from datetime import timedelta  
 from datetime import date
