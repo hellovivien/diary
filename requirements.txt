@@ -13,3 +13,4 @@ bcrypt
 streamlit_lottie
 python-dotenv
 dnspython
+pyarrow
