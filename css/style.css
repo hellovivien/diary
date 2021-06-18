@@ -1,0 +1,57 @@
+.emotion-label{
+    color:white;
+    border-radius: 5px;
+    padding: 5px;
+    float: right;
+}
+
+.text{
+    background-color: #F6F8FA;
+    border-radius: 5px;
+    padding: 10px;
+    word-break: break-word;
+    max-height: 300px;
+    overflow:auto;
+}
+
+.title{
+    font-family: "Dynastium-Kjvy";
+    text-align: center;
+    color: #45D0AC;
+}
+
+.title p{
+    color: #F8A491;
+}
+
+.center{
+    background-color: black;
+}
+/* 
+Emotions:
+happy
+sadness
+anger
+fear
+love
+surpise
+*/
+
+.happy-label{
+    background-color: #FCE953
+}
+.sadness-label{
+    background-color: #5050FF
+}
+.anger-label{
+    background-color: #D50000
+}
+.fear-label{
+    background-color: #258100
+}
+.love-label{
+    background-color: #FBC7FF
+}
+.surprise-label{
+    background-color: #328AE1
+}
