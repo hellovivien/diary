@@ -21,7 +21,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-local_api_url = "http://127.0.0.1:8000"
+local_api_url = "https://salty-sea-10515.herokuapp.com"
 fake = faker.Faker()
 
 
