@@ -15,5 +15,6 @@ A small app with admin panel to make a diary that analys yours emotions
 * Visualization
 * Replace PyMongo by ODMantic (Pydantic for mongoDB) for data validation
 * JWT token fix (add expiration and use it inside headers instead of body)
-* Pytest and clean
+* Pytest
+* Clean (Pep8, modules, docstring)
 * Improve ML model (more emotions, use (flau)bert for french)
