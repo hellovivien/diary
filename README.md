@@ -2,7 +2,7 @@
 
 A small app with admin panel to make a diary that analys yours emotions
 
-** try at https://share.streamlit.io/hellovivien/diary/app.py **
+**try at https://share.streamlit.io/hellovivien/diary/app.py**
 
 ### Done
 * mongoDB database
